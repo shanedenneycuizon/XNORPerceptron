@@ -1,0 +1,11 @@
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\bin\Debug\PerceptronAlgorithm_XNOR.exe.config
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\bin\Debug\PerceptronAlgorithm_XNOR.exe
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\bin\Debug\PerceptronAlgorithm_XNOR.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.Form1.resources
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.Properties.Resources.resources
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.csproj.GenerateResource.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.exe
+C:\Users\Shane\Documents\SCHOOL FILES\3RD YEAR\2ND SEM\MWF - CS346 - INTELLIGENT SYSTEMS 2\Perceptron\PerceptronAlgorithm_XNOR\PerceptronAlgorithm_XNOR\obj\Debug\PerceptronAlgorithm_XNOR.pdb
